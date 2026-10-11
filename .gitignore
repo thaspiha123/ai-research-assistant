@@ -9,3 +9,4 @@ __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
 .DS_Store
+desktop.ini
