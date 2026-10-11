@@ -1,7 +1,7 @@
 # AI Research Assistant using Mini RAG
 
-Surana College Autonomous, Southend Circle · Subject: NLP
-Thaspiha Aanisha B. (U03ME24S0054) and Chithra Kumari A. (U03ME24S0073)
+
+
 
 ## Files
 
